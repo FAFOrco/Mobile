@@ -1,0 +1,10 @@
+D:\Proyectos\MyTest\MyTest\bin\Debug\MyTest.rxtmg
+D:\Proyectos\MyTest\MyTest\bin\Debug\MyTest.rxtst
+D:\Proyectos\MyTest\MyTest\bin\Debug\MyTest.exe.config
+D:\Proyectos\MyTest\MyTest\bin\Debug\MyTest.xml
+D:\Proyectos\MyTest\MyTest\bin\Debug\MyTest.exe
+D:\Proyectos\MyTest\MyTest\bin\Debug\MyTest.pdb
+D:\Proyectos\MyTest\MyTest\bin\Debug\Ranorex.Core.Resolver.dll
+D:\Proyectos\MyTest\MyTest\obj\x86\Debug\MyTest.csprojResolveAssemblyReference.cache
+D:\Proyectos\MyTest\MyTest\obj\x86\Debug\MyTest.exe
+D:\Proyectos\MyTest\MyTest\obj\x86\Debug\MyTest.pdb

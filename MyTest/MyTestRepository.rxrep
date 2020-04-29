@@ -1,0 +1,146 @@
+﻿<repository
+id="664be483-80cd-4582-8c70-d86a0b30e896"
+name="MyTestRepository">
+	<codegen
+	classname="MyTestRepository"
+	namespace="MyTest">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="c413839f-357d-4623-8b3f-a49797370cdd"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="b7bc8e85-3a6b-4970-ae4c-c00f229e6424"
+		isrooted="True"
+		name="ITResourcesCreamosExperienciasMas"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="unknown,webelement,imgtag"
+			capname="imgtag"
+			id="9de8695b-e4d7-431b-8d0f-7f74b453093c"
+			name="HttpWwwSomositrComImgItrLogoSvg"
+			refimgid="ff7db2ff-3f4b-4420-bee6-dee69c302b58"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']/?/?/nav/?/?/a[@href='http://www.somositr.com/']/img[@src='http://www.somositr.com/img/itr-logo.svg']
+			</item>
+			<item
+			addcaps="unknown,webelement,atag"
+			capname="atag"
+			id="56e357bb-4d64-4412-8f3c-74f4c8ee117b"
+			name="ServiciosDeITR"
+			refimgid="13c96d4a-da83-41cc-af3c-d1c9a027eff4"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']//div[#'navbarBasicExample']/div/div[1]/?/?/a[@innertext='Servicios']
+			</item>
+			<item
+			addcaps="unknown,webelement,h1tag"
+			capname="h1tag"
+			id="ce901290-b4d9-4cdd-8503-3af86d7f46c6"
+			name="Servicios"
+			refimgid="ae7aa83e-bc38-4182-9315-56f894042bdd"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']/body/section[1]/div//h1[@innertext='Servicios']
+			</item>
+			<item
+			addcaps="unknown,webelement,imgtag"
+			capname="imgtag"
+			id="0869bde5-99e3-4ce9-b0ab-4221640b377a"
+			name="DesignThinking"
+			refimgid="191bf86b-9eb8-42a1-991c-af422ec73559"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']//div[#'servicios']/div/div/div[4]//a[@href&gt;'http://www.somositr.com/t']/div/div[1]/?/?/img[@alt='Design Thinking']
+			</item>
+			<item
+			addcaps="unknown,webelement,h4tag"
+			capname="h4tag"
+			id="973fe36f-d88e-4c9d-a656-c0e681ca994f"
+			name="QAQC"
+			refimgid="d496b4fc-5b47-4f73-a536-f376da41032c"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']//div[#'servicios']/div/div/div[4]//a[@href&gt;'http://www.somositr.com/t']/div/div[2]/h4[@innertext='QA/QC']
+			</item>
+			<item
+			addcaps="unknown,webelement,h1tag"
+			capname="h1tag"
+			id="47fe7467-77ea-4cc1-ab50-54a8d622e76c"
+			name="Testing"
+			refimgid="ad3e76d3-f783-4466-9124-6844ba1f8261"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']/body/section[1]/div//h1[@innertext='Testing']
+			</item>
+			<item
+			addcaps="unknown,webelement,h4tag"
+			capname="h4tag"
+			id="6a5d5f53-b992-48f6-9855-7f686d26a41b"
+			name="TestingAutomatizado"
+			refimgid="e2a0b44c-9218-43f0-8ecd-9810021c2106"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']/body//h4[@innertext='Testing automatizado']
+			</item>
+			<item
+			addcaps="unknown,webelement,imgtag"
+			capname="imgtag"
+			id="19b30549-3b5c-4c8e-80c6-d01376d06605"
+			name="HttpSomositrComImgItrLogoSvg"
+			refimgid="7b58bea7-ebcc-4dbb-a825-31dc572b216b"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']/body/nav//img[@src='http://www.somositr.com/img/itr-logo.svg']
+			</item>
+			<item
+			addcaps="unknown,webelement,atag"
+			capname="atag"
+			id="f55311e7-b821-41ba-ac9c-92ee9a5a4590"
+			name="BurgerNavbarBurger"
+			refimgid="cc067c7b-19d7-400b-9c62-3bc961c65add"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']/?/?/nav/div[1]/a[@class='navbar-burger burger']
+			</item>
+			<item
+			addcaps="unknown,webelement,atag"
+			capname="atag"
+			id="2b9f9a49-19a7-4f1f-9586-04b4e970efef"
+			name="CalidadEIntegridadDeNuestrosDesarro"
+			refimgid="dfd23314-5f43-4301-b8e0-f7fae738fdf7"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']//div[#'navbarBasicExample']/div/div[1]/?/?/a[@innertext='Testing']
+			</item>
+			<item
+			addcaps="unknown,webelement,imgtag"
+			capname="imgtag"
+			id="b375dcc5-9030-494f-a9c4-15d5e1efc0fa"
+			name="ImgTagImgIconTestingAutomatizadoS"
+			refimgid="43b42fe4-c1c9-45f0-92cd-4eb6a94fc03b"
+			searchtimeout="30000ms">
+				/dom[@domain~'somositr.com']/body//img[@alt&gt;'../img/icon/testing/autom']
+			</item>
+			<basepath>
+				/dom[@domain~'somositr.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

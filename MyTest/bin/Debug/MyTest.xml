@@ -1,0 +1,221 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyTest</name>
+    </assembly>
+    <members>
+        <member name="T:MyTest.MyTestRepository">
+            <summary>
+            The class representing the MyTestRepository element repository.
+            </summary>
+        </member>
+        <member name="M:MyTest.MyTestRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the MyTestRepository element repository.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepository.ITResourcesCreamosExperienciasMas">
+            <summary>
+            The ITResourcesCreamosExperienciasMas folder.
+            </summary>
+        </member>
+        <member name="T:MyTest.MyTestRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder">
+            <summary>
+            The ITResourcesCreamosExperienciasMasAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ITResourcesCreamosExperienciasMas  folder.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.HttpWwwSomositrComImgItrLogoSvg">
+            <summary>
+            The HttpWwwSomositrComImgItrLogoSvg item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.HttpWwwSomositrComImgItrLogoSvgInfo">
+            <summary>
+            The HttpWwwSomositrComImgItrLogoSvg item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.ServiciosDeITR">
+            <summary>
+            The ServiciosDeITR item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.ServiciosDeITRInfo">
+            <summary>
+            The ServiciosDeITR item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.Servicios">
+            <summary>
+            The Servicios item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.ServiciosInfo">
+            <summary>
+            The Servicios item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.DesignThinking">
+            <summary>
+            The DesignThinking item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.DesignThinkingInfo">
+            <summary>
+            The DesignThinking item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.QAQC">
+            <summary>
+            The QAQC item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.QAQCInfo">
+            <summary>
+            The QAQC item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.Testing">
+            <summary>
+            The Testing item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.TestingInfo">
+            <summary>
+            The Testing item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.TestingAutomatizado">
+            <summary>
+            The TestingAutomatizado item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.TestingAutomatizadoInfo">
+            <summary>
+            The TestingAutomatizado item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.HttpSomositrComImgItrLogoSvg">
+            <summary>
+            The HttpSomositrComImgItrLogoSvg item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.HttpSomositrComImgItrLogoSvgInfo">
+            <summary>
+            The HttpSomositrComImgItrLogoSvg item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.BurgerNavbarBurger">
+            <summary>
+            The BurgerNavbarBurger item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.BurgerNavbarBurgerInfo">
+            <summary>
+            The BurgerNavbarBurger item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.CalidadEIntegridadDeNuestrosDesarro">
+            <summary>
+            The CalidadEIntegridadDeNuestrosDesarro item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.CalidadEIntegridadDeNuestrosDesarroInfo">
+            <summary>
+            The CalidadEIntegridadDeNuestrosDesarro item info.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.ImgTagImgIconTestingAutomatizadoS">
+            <summary>
+            The ImgTagImgIconTestingAutomatizadoS item.
+            </summary>
+        </member>
+        <member name="P:MyTest.MyTestRepositoryFolders.ITResourcesCreamosExperienciasMasAppFolder.ImgTagImgIconTestingAutomatizadoSInfo">
+            <summary>
+            The ImgTagImgIconTestingAutomatizadoS item info.
+            </summary>
+        </member>
+        <member name="T:MyTest.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:MyTest.Recording1.repo">
+            <summary>
+            Holds an instance of the MyTestRepository repository.
+            </summary>
+        </member>
+        <member name="M:MyTest.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:MyTest.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:MyTest.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:MyTest.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:MyTest.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:MyTest.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>
