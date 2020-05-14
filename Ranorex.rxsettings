@@ -402,13 +402,40 @@ rxversion="9.2">
       &quot;ControlFlags&quot;: 0,
       &quot;CoreData&quot;: {},
       &quot;PluginData&quot;: {
-        &quot;DefaultConfiguration&quot;: &quot;Pixel 2&quot;,
-        &quot;Configurations&quot;: &quot;[{\&quot;Name\&quot;:\&quot;Pixel 2\&quot;,\&quot;Json\&quot;:\&quot;{\\r\\n\\\&quot;deviceName\\\&quot;:\\\&quot;EmuFAF\\\&quot;,\\r\\n\\\&quot;platformName\\\&quot;:\\\&quot;Android\\\&quot;,\\r\\n\\\&quot;platformVersion\\\&quot;:\\\&quot;9\\\&quot;,\\r\\n\\\&quot;udid\\\&quot;:\\\&quot;emulator-5554\\\&quot;,\\r\\n\\\&quot;automationName\\\&quot;:\\\&quot;UiAutomator1\\\&quot;\\r\\n}\&quot;,\&quot;Description\&quot;:\&quot;Android 9\&quot;},{\&quot;Name\&quot;:\&quot;Samsung S4\&quot;,\&quot;Json\&quot;:\&quot;{\\r\\n\\\&quot;deviceName\\\&quot;:\\\&quot;CeluFAF\\\&quot;,\\r\\n\\\&quot;platformName\\\&quot;:\\\&quot;Android\\\&quot;,\\r\\n\\\&quot;platformVersion\\\&quot;:\\\&quot;5.0.1\\\&quot;,\\r\\n\\\&quot;udid\\\&quot;:\\\&quot;4d00620b34184013\\\&quot;,\\r\\n\\\&quot;automationName\\\&quot;:\\\&quot;UiAutomator1\\\&quot;\\r\\n}\&quot;,\&quot;Description\&quot;:\&quot;Android 5.0.1\&quot;}]&quot;
+        &quot;DefaultConfiguration&quot;: &quot;Samsung Galaxy Tab&quot;,
+        &quot;Configurations&quot;: &quot;[{\&quot;Name\&quot;:\&quot;Pixel 2\&quot;,\&quot;Json\&quot;:\&quot;{\\r\\n\\\&quot;deviceName\\\&quot;:\\\&quot;EmuFAF\\\&quot;,\\r\\n\\\&quot;platformName\\\&quot;:\\\&quot;Android\\\&quot;,\\r\\n\\\&quot;platformVersion\\\&quot;:\\\&quot;9\\\&quot;,\\r\\n\\\&quot;udid\\\&quot;:\\\&quot;emulator-5554\\\&quot;,\\r\\n\\\&quot;automationName\\\&quot;:\\\&quot;UiAutomator1\\\&quot;,\\r\\n\\\&quot;chromedriverExecutableDir\\\&quot;:\\\&quot;D:\\\\\\\\Varios\\\\\\\\ChromeDrivers\\\\\\\\v69_71\\\&quot;\\r\\n}\&quot;,\&quot;Description\&quot;:\&quot;Android 9\\r\\nChrome 69.0.3497.100\&quot;},{\&quot;Name\&quot;:\&quot;Samsung S4\&quot;,\&quot;Json\&quot;:\&quot;{\\r\\n\\\&quot;deviceName\\\&quot;:\\\&quot;CeluFAF\\\&quot;,\\r\\n\\\&quot;platformName\\\&quot;:\\\&quot;Android\\\&quot;,\\r\\n\\\&quot;platformVersion\\\&quot;:\\\&quot;5.0.1\\\&quot;,\\r\\n\\\&quot;udid\\\&quot;:\\\&quot;4d00620b34184013\\\&quot;,\\r\\n\\\&quot;automationName\\\&quot;:\\\&quot;UiAutomator1\\\&quot;,\\r\\n\\\&quot;chromedriverExecutableDir\\\&quot;:\\\&quot;D:\\\\\\\\Varios\\\\\\\\ChromeDrivers\\\\\\\\81.0.4044\\\&quot;\\r\\n}\&quot;,\&quot;Description\&quot;:\&quot;Android 5.0.1\\r\\nChrome 81.0.4044.117\&quot;},{\&quot;Name\&quot;:\&quot;Samsung Galaxy Tab\&quot;,\&quot;Json\&quot;:\&quot;{\\r\\n\\\&quot;deviceName\\\&quot;:\\\&quot;CeluFAF\\\&quot;,\\r\\n\\\&quot;platformName\\\&quot;:\\\&quot;Android\\\&quot;,\\r\\n\\\&quot;platformVersion\\\&quot;:\\\&quot;5.0.1\\\&quot;,\\r\\n\\\&quot;udid\\\&quot;:\\\&quot;32300c930bf8707d\\\&quot;,\\r\\n\\\&quot;automationName\\\&quot;:\\\&quot;UiAutomator1\\\&quot;,\\r\\n\\\&quot;chromedriverExecutableDir\\\&quot;:\\\&quot;D:\\\\\\\\Varios\\\\\\\\ChromeDrivers\\\\\\\\81.0.4044\\\&quot;\\r\\n}\&quot;,\&quot;Description\&quot;:\&quot;Android 4.4.2\\r\\nChrome 81.0.4044.117\&quot;}]&quot;
       },
       &quot;MetaData&quot;: {},
       &quot;Description&quot;: &quot;&quot;,
       &quot;DisplayName&quot;: &quot;Appium&quot;,
       &quot;Url&quot;: &quot;http://localhost:4723/wd/hub&quot;,
+      &quot;Tags&quot;: []
+    },
+    {
+      &quot;Id&quot;: &quot;d22f6b8f-2d36-4d75-9fc6-63fff8d5934d&quot;,
+      &quot;ControlFlags&quot;: 0,
+      &quot;CoreData&quot;: {},
+      &quot;PluginData&quot;: {
+        &quot;DefaultConfiguration&quot;: &quot;Samsung S4&quot;,
+        &quot;Configurations&quot;: &quot;[{\&quot;Name\&quot;:\&quot;Samsung S4\&quot;,\&quot;Json\&quot;:\&quot;{\\r\\n\\\&quot;deviceName\\\&quot;:\\\&quot;CeluFAF\\\&quot;,\\r\\n\\\&quot;platformName\\\&quot;:\\\&quot;Android\\\&quot;,\\r\\n\\\&quot;platformVersion\\\&quot;:\\\&quot;5.0.1\\\&quot;,\\r\\n\\\&quot;udid\\\&quot;:\\\&quot;4d00620b34184013\\\&quot;,\\r\\n\\\&quot;automationName\\\&quot;:\\\&quot;UiAutomator1\\\&quot;,\\r\\n\\\&quot;chromedriverExecutableDir\\\&quot;:\\\&quot;D:\\\\\\\\Varios\\\\\\\\ChromeDrivers\\\\\\\\81.0.4044\\\&quot;\\r\\n}\&quot;,\&quot;Description\&quot;:\&quot;Android 5.0.1\\r\\nChrome 81.0.4044.117\&quot;}]&quot;
+      },
+      &quot;MetaData&quot;: {},
+      &quot;Description&quot;: &quot;&quot;,
+      &quot;DisplayName&quot;: &quot;Appium HTPC EndPoint&quot;,
+      &quot;Url&quot;: &quot;http://192.168.0.19:4723/wd/hub&quot;,
+      &quot;Tags&quot;: []
+    },
+    {
+      &quot;Id&quot;: &quot;9938f600-ad71-43ef-afbf-b6209be8d30c&quot;,
+      &quot;ControlFlags&quot;: 0,
+      &quot;CoreData&quot;: {},
+      &quot;PluginData&quot;: {
+        &quot;capabilities&quot;: &quot;&quot;
+      },
+      &quot;MetaData&quot;: {},
+      &quot;Description&quot;: &quot;&quot;,
+      &quot;DisplayName&quot;: &quot;WebDriver HTPC EndPoint&quot;,
+      &quot;Url&quot;: &quot;http://192.168.0.19:4444/wd/hub&quot;,
       &quot;Tags&quot;: []
     }
   ]
@@ -659,7 +686,7 @@ rxversion="9.2">
 		False
 	</plugin.cef.enabledebugcapability>
 	<plugin.webdriver.commandtimeout>
-		30000ms
+		60000ms
 	</plugin.webdriver.commandtimeout>
 	<plugin.webdriver.domfetchmode>
 		WhenChanged
